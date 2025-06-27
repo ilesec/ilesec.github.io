@@ -1,6 +1,6 @@
 baseURL = 'https://ilesec.github.io/'
 languageCode = 'en-us'
-title = 'Ilkka Hyvönen's site'
+title = 'Ilkka Hyvönen´s site'
 theme = 'ananke'
 [caches]
   [caches.images]
