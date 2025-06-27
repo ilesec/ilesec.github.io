@@ -1,0 +1,11 @@
+footer.showThemeAttribution = false
+footer.showScrollToTop = true
+homepage.layout = "profile"
+homepage.showRecent = true
+enableSearch = false
+enableCodeCopy = true
+article.showAuthor = true
+article.showAuthorBottom = true
+article.showDate = false
+article.showReadingTime = false
+article.showWordCount = false

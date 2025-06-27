@@ -1,0 +1,8 @@
+{
+    "name": "Ilkka Hyvönen",
+    "image" : "img/author.jpg",
+    "bio": "Cloud Solution Architect",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/ilkkahyvonen" }
+    ]
+}
